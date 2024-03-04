@@ -1,7 +1,11 @@
 .fondos{
-    background-color: brown;
+    background-image: url(../img/GHcSmhMXMAEpopL.jpeg);
+    color: #ffffff;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .a{
-    color: aqua;
+    color: #fff;
     
 }
